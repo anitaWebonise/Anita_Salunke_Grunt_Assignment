@@ -1,0 +1,6 @@
+// gitignore files and folder
+
+.sass-cache
+node_modules
+js/build
+css/production.min.css
